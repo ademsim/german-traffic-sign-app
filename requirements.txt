@@ -1,5 +1,6 @@
 streamlit
-tensorflow
 numpy
 pillow
 pandas
+--extra-index-url https://pypi.org/simple/
+tensorflow
